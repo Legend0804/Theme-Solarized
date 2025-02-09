@@ -20,6 +20,8 @@ Spicetify theme is Ziro. Color theme is shared.
 
 Rainmeter Skin is also shared
 
+Custom Terminal Color Scheme is also shared
+
 ### Lastly VS Code is customized :
 1. Install [Better Solarized](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-better-solarized-dark-theme), [Material Icon theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) and [Custom UI style](https://marketplace.visualstudio.com/items?itemName=subframe7536.custom-ui-style) extensions
 2. Open user settings.json via command palette (control + shift + P)
