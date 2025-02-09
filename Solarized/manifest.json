@@ -1,0 +1,92 @@
+{
+  "version": "1.2.2",
+  "manifest_version": 3,
+  "name": "Tokyo Night",
+  "theme": {
+    "colors": {
+      "bookmark_text": [
+        253,
+        246,
+        227
+      ],
+      "frame": [
+        0,
+        43,
+        54
+      ],
+      "ntp_background": [
+        0,
+        43,
+        54
+      ],
+      "ntp_text": [
+        253, 
+        246, 
+        227
+      ],
+      "tab_background_text": [
+        253, 
+        246, 
+        227
+      ],
+      "tab_background_text_inactive": [
+        253, 
+        246, 
+        227
+      ],
+      "tab_background_text_incognito": [
+        253, 
+        246, 
+        227
+      ],
+      "tab_background_text_incognito_inactive": [
+        253, 
+        246, 
+        227
+      ],
+      "tab_text": [
+        253, 
+        246, 
+        227
+        
+      ],
+      "toolbar": [
+        7,
+        54, 
+        66
+      ],
+      "omnibox_text": [
+        253, 
+        246, 
+        227
+      ],
+      "omnibox_background": [
+	      0,
+        43,
+        54
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.610144927536232,
+        0.5,
+        0.5
+      ],
+      "frame_inactive": [
+        -1,
+        -1,
+        -1
+      ],
+      "frame_incognito": [
+        0.7270833333333333,
+        1,
+        0.55
+      ],
+      "frame_incognito_inactive": [
+        0.7270833333333333,
+        1,
+        0.55
+      ]
+    }
+  }
+}
