@@ -1,0 +1,227 @@
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-5-1.html
+Theme = Light
+FixedPageUI [
+	TextColor = #cdd6f4
+	BackgroundColor = #002b36
+	SelectionColor = #585b70
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+	InvertColors = false
+	HideScrollbars = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+
+SelectionHandlers [
+]
+ExternalViewers [
+]
+
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #585b7075
+	HighlightPermanent = false
+]
+Annotations [
+	HighlightColor = #ffff00
+	UnderlineColor = #00ff00
+	SquigglyColor = #ff00ff
+	StrikeOutColor = #ff0000
+	FreeTextColor = 
+	FreeTextSize = 12
+	FreeTextBorderWidth = 1
+	TextIconColor = 
+	TextIconType = 
+	DefaultAuthor = 
+]
+
+RememberOpenedFiles = true
+RememberStatePerDocument = true
+RestoreSession = true
+UiLanguage = en
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit width
+Shortcuts [
+]
+EscToExit = true
+ReuseInstance = false
+ReloadModifiedDocuments = true
+
+MainWindowBackground = #002b36
+FullPathInTitle = false
+ShowMenubar = false
+ShowToolbar = false
+ShowFavorites = false
+ShowToc = false
+NoHomeTab = true
+TocDy = 0
+SidebarDx = 0
+ToolbarSize = 18
+TabWidth = 300
+TreeFontSize = 0
+TreeFontWeightOffset = 0
+TreeFontName = automatic
+SmoothScroll = true
+ShowStartPage = false
+CheckForUpdates = true
+WindowState = 1
+WindowPos = 1109 269 806 808
+UseTabs = false
+UseSysColors = false
+CustomScreenDPI = 0
+
+FileStates [
+	[
+		FilePath = C:\Users\Himanshu Dhawade\Downloads\Euthyphro.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 121.353
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1109 269 806 808
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Himanshu Dhawade\Downloads\Plato - Euthyphro [West].pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 664 122 806 743
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Himanshu Dhawade\Downloads\Modern History BLUE BOOK.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 9
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 514.659
+		PageNo = 20
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 664 122 806 743
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Himanshu Dhawade\Downloads\DocScanner_06-Feb-2025_10-04.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 735.491
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 505 -19 806 743
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Himanshu Dhawade\Downloads\PISTIS - Demystifying Jungian Psychology.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 183.054
+		PageNo = 3
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 590 -18 806 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+	[
+		TabStates [
+			[
+				FilePath = C:\Users\Himanshu Dhawade\Downloads\Euthyphro.pdf
+				DisplayMode = continuous
+				PageNo = 2
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 121.353
+				ShowToc = false
+			]
+		]
+		TabIndex = 1
+		WindowState = 1
+		WindowPos = 1109 269 806 808
+		SidebarDx = 0
+	]
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 736
+
+# Settings below are not recognized by the current version
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #cdd6f4
+	BackgroundColor = #1e1e2e
+	UseFixedPageUI = false
+]
+RestoreSession = true
+EscToExit = false
+ReuseInstance = false
+ReloadModifiedDocuments = true
+MainWindowBackground = #80fff200
+FullPathInTitle = false
+ShowMenubar = true
+TabWidth = 300
+UseSysColors = false
