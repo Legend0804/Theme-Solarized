@@ -1,0 +1,16 @@
+[solarized]
+text               = fcf5e2
+subtext            = ede7d4
+main               = 002b36
+sidebar            = 002b36
+player             = 002b36
+card               = 073642
+shadow             = 2aa097
+selected-row       = 6c71c3
+button             = 6c71c3
+button-active      = 6c71c3
+button-disabled    = 2aa097
+tab-active         = cdd6f4
+notification       = 2aa097
+notification-error = db322f
+misc               = 002b36
