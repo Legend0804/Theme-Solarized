@@ -1,0 +1,23 @@
+{
+            "background": "#002B36",
+            "black": "#073642",
+            "blue": "#268BD2",
+            "brightBlack": "#002B36",
+            "brightBlue": "#268BD2",
+            "brightCyan": "#2AA198",
+            "brightGreen": "#859900",
+            "brightPurple": "#D33682",
+            "brightRed": "#DC322F",
+            "brightWhite": "#FDF6E3",
+            "brightYellow": "#B58900",
+            "cursorColor": "#657B83",
+            "cyan": "#2AA198",
+            "foreground": "#FDF6E3",
+            "green": "#859900",
+            "name": "Solarized Dark Patched",
+            "purple": "#D33682",
+            "red": "#DC322F",
+            "selectionBackground": "#FFFFFF",
+            "white": "#EEE8D5",
+            "yellow": "#B58900"
+        }
