@@ -8,9 +8,11 @@
 
 **[Neofetch](https://github.com/dylanaraps/neofetch)** (neofetch config shared)
 
+**[Flow Launcher](https://www.flowlauncher.com/)** *(custom theme is shared)*
+
 **[SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)** and **[ObsidianMD](https://obsidian.md/)** (installed custom themes, contact me if you use obsidian and want to do it)
 
-**[Bottom in Terminal](https://github.com/ClementTsang/bottom)]**
+**[Bottom in Terminal](https://github.com/ClementTsang/bottom)**
 
 **Edge Startpage** : [Bento](https://github.com/migueravila/Bento)
 
