@@ -1,0 +1,41 @@
+{
+    "editor.fontFamily": "Riosevka",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "workbench.colorTheme": "Better Solarized Dark",
+    "workbench.editor.showTabs": "single",
+    "workbench.tips.enabled": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.renderIndentGuides": "none", 
+    "workbench.statusBar.visible": false,
+    "window.menuBarVisibility": "hidden",
+    "workbench.activityBar.location": "hidden",
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "native",
+    "custom-ui-style.electron": {
+        "titleBarStyle" : "hidden",
+        "titleBarOverlay" : {
+            "height" : 30
+        },
+    },
+    "custom-ui-style.stylesheet": {
+        ".notification-toast": "box-shadow: none !important",
+        ".quick-input-widget.show-file-icons": "box-shadow: none !important",
+        ".quick-input-widget": "top: 25vh !important",
+        ".quick-input-list .scrollbar": "display: none",
+        ".title.show-file-icons .label-container .monaco-icon-label.file-icon": "justify-content: center; padding: 0 !important",
+        ".editor-widget.find-widget": "box-shadow: none; border-radius: 8px",
+        ".monaco-list-row.focused": "outline: none !important",
+        ".title-actions": "display: none !important",
+    },
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.stickyScroll.enabled": false,
+    "editor.fontLigatures": true
+}
